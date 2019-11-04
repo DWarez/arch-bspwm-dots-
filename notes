@@ -1,0 +1,13 @@
+Installation:
+	anarchy installer
+	don't install opensource drivers
+	uefi installation
+	zsh from installer
+	grub (?)
+
+Post installation:
+Packages:
+	bzip2, code, compton, dmenu, feh, firefox, gcc, git, gzip, htop, lightdm, lightdm-gtk-greeter-settings,
+	mpv, neofetch, nerdfonts (dots use source code pro), polybar, ranger, rofi, screenfetch, sxhkd, tar, unzip
+
+Install powerlevel10k
