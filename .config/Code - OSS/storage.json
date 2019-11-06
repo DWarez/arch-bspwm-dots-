@@ -73,11 +73,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -1356,10 +1358,10 @@
             "backupPath": "/home/dwarez/.config/Code - OSS/Backups/1572207774043",
             "uiState": {
                 "mode": 1,
-                "x": 2,
-                "y": 20,
-                "width": 1916,
-                "height": 1036
+                "x": 14,
+                "y": 54,
+                "width": 1892,
+                "height": 1012
             }
         },
         "openedWindows": []

@@ -8,7 +8,11 @@ super + Return
 
 # program launcher
 super + @space
-	rofi -show run
+	~/.config/rofi/scripts/appsmenu.sh
+
+# shutdown menu
+super + alt + Escape
+	~/.config/rofi/scripts/powermenu.sh
 
 # firefox
 super + alt + f
