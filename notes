@@ -8,7 +8,8 @@ Installation:
 Post installation:
 Packages:
 	bzip2, code, compton, dmenu, feh, firefox, gcc, git, gzip, htop, lightdm, lightdm-gtk-greeter-settings,
-	mpv, neofetch, nerdfonts (dots use source code pro), polybar, ranger, rofi, screenfetch, sxhkd, tar, unzip
+	mpv, neofetch, nerdfonts (dots use source code pro/hermit/roboto), polybar, ranger, rofi, scrot, sxhkd, tar, unzip, rofi-menus-git,
+	thunar
 
 Install powerlevel10k
 

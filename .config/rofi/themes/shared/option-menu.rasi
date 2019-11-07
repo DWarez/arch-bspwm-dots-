@@ -9,7 +9,7 @@
 * {
   background-color: @background;
   text-color: @foreground;
-  font: @font-icon;
+  font: @icon-font;
 }
 #window {
   children: [ horibox ];

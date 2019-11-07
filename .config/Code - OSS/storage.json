@@ -2,7 +2,9 @@
     "telemetry.machineId": "4b6bd40b69d942ba7dc4452b3d0febcf04f29ba4d8af726331838ed1f5d57bb5",
     "openedPathsList": {
         "workspaces3": [],
-        "files2": []
+        "files2": [
+            "file:///home/dwarez/.config/rofi/config"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -44,6 +46,20 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dwarez/.config/rofi/config",
+                                        "path": "/home/dwarez/.config/rofi/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/rofi/config"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.openRecent",
                                     "label": "&&More..."
                                 },
@@ -73,13 +89,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -344,8 +358,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -1355,12 +1368,12 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/dwarez/.config/Code - OSS/Backups/1572207774043",
+            "backupPath": "/home/dwarez/.config/Code - OSS/Backups/1573132032308",
             "uiState": {
                 "mode": 1,
-                "x": 14,
+                "x": 1006,
                 "y": 54,
-                "width": 1892,
+                "width": 900,
                 "height": 1012
             }
         },

@@ -1,7 +1,9 @@
 * {
   /* General */
-  text-font:                            "Roboto Mono Bold 14";
-  icon-font:			        "Hermit 14";
+  text-font:                            "Comfortaa 14";
+  text-font-mono:                       "RobotoMono Nerd Font Regular 14";
+  icon-font:                            "Hurmit Nerd Font Mono 60";
+  icon-font-small:                      "Hurmit Nerd Font Mono 24";
   inputbar-margin:                      4px 4px;
   prompt-padding:                       16px 20px;
   entry-padding:                        18px 16px 16px 0px;
@@ -30,6 +32,8 @@
   mpd-prompt-margin:                    0px 0px 0px -2px;
   mpd-element-border:                   12px;
   /* Every @option-element-padding minus @mpd-element-border */
+  mpd-element-padding:                  76px 88px 69px -16px;
+  /* networkmenu */
   network-textbox-prompt-colon-padding: 14px 10px 10px 10px;
   /* nmvpnmenu */
   nmvpn-textbox-prompt-colon-padding:   @network-textbox-prompt-colon-padding;

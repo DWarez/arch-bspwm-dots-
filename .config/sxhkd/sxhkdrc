@@ -15,8 +15,11 @@ super + alt + Escape
 	~/.config/rofi/scripts/powermenu.sh
 
 # firefox
-super + alt + f
+super + alt + b
 	firefox 
+# thunar
+super + alt + f
+	thunar
 
 # make sxhkd reload its configuration files:
 super + Escape
