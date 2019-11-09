@@ -8,9 +8,8 @@ Installation:
 Post installation:
 Packages:
 	bzip2, code, compton, dmenu, feh, firefox, gcc, git, gzip, htop, lightdm, lightdm-gtk-greeter-settings,
-	mpv, neofetch, nerdfonts (dots use source code pro/hermit/roboto), polybar, ranger, rofi, scrot, sxhkd, tar, unzip, rofi-menus-git,
-	thunar
+	mpv, neofetch, polybar, ranger, rofi, scrot, sxhkd, tar, unzip, rofi-menus-git, thunar
 
 Install powerlevel10k
-
+Fonts: source code pro, hermit, roboto, remember powerline fonts
 GTK customization: install lxappearance, ach-gtk-theme, breeze cursor, deepin/breeze icons (start lxappearance as sudo to make changes)
